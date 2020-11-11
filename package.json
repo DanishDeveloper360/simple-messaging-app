@@ -35,7 +35,7 @@
   "devDependencies": {
     "babel-eslint": "^4.1.2",
     "babel-plugin-react-transform": "^2.0.0",
-    "css-loader": "^0.15.1",
+    "css-loader": "^0.28.11",
     "eslint": "^7.3.1",
     "eslint-config-airbnb": "1.0.0",
     "eslint-plugin-react": "^3.4.0",
